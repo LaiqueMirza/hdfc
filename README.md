@@ -9,7 +9,7 @@ Following are the steps to start the project
 7. After giving the permission refresh the browser 
 8. Hurrah you started the project
 
-The project shows hdfc bank near you with in 5km radius 
+The project shows hdfc bank near you with in 5km radius, you can use the site in desktop or mobile
 
 
 # Getting Started with Create React App
