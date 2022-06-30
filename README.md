@@ -1,3 +1,17 @@
+Following are the steps to start the project
+
+1. Open your vs code terminal 
+2. write "git clone https://github.com/LaiqueMirza/hdfc.git" in the terminal
+3. then cd to the hdfc "cd hdfc" 
+4. Then install the depedencies "npm i" incase this doesn't work go for "npm i --force"
+5. once installed, start the server with "npm start"
+6. At the very first it may ask you for location permission give it the permission
+7. After giving the permission refresh the browser 
+8. Hurrah you started the project
+
+The project shows hdfc bank near you with in 5km radius 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
